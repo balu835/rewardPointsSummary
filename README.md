@@ -1,5 +1,5 @@
-# rewardPointsSummary
-To Calculate Reward Points summary for a given customer
+# Reward Points Summary
+Calculates Reward Points summary for a given customer with the given instructions mentioned below.
 
 Assignment and Instructions:
 ----------------------------
@@ -40,11 +40,13 @@ Working with command Prompt for mac laptops
 4) Application should be up and running after few seconds on port 8081
 
 Working with command Prompt for windows laptops
--------------------------------------------
+-----------------------------------------------
+I don't have windows laptop for providing screenshots but hope this online reference helps https://www.baeldung.com/maven-wrapper if you see any issues or https://maven.apache.org/wrapper/
+
 1)  Clone the source code from https://github.com/balu835/rewardPointsSummary.git to desktop folder.
 2)  Navigate to the project folder and run mvnw.cmd clean install command in the command prompt.
-3) Once the build is success run ./mvnw spring-boot:run command to start the application.
-4) Application should be up and running after few seconds on port 8081
+3)  Once the build is success run ./mvnw spring-boot:run command to start the application.
+4)  Application should be up and running after few seconds on port 8081
 
 Testing the application
 -----------------------
