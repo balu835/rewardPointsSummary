@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 @SpringBootTest(classes = RewardPointsApplication.class,
         webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
-public class RewardPointsControllerIT {
+public class RewardPointsControllerIntegrationTest {
 
     @LocalServerPort
     private int port;
